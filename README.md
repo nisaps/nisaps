@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisaps
 - 👀 I’m interested in improving website appearances
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML/CSS
 - 📫 How to reach me annisapuspitasari394@gmail.com
 - 😄 Pronouns: she/her
