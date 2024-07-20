@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on HTML/CSS
 - 📫 How to reach me annisapuspitasari394@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i like coding with light theme code editor 
+- ⚡ Fun fact: Is that everyone like to used Dark theme? NO at all. I used Light theme!
 
 <!---
 nisaps/nisaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
