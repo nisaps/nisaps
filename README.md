@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving website appearances
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML/CSS
-- 📫 How to reach me annisapuspitasari394@gmail.com
+- 📫 How to reach me t.me/annisa_pussa
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Is that everyone like to code used Dark theme? NO at all. I used Light theme!
 
